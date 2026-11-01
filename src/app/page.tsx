@@ -675,7 +675,7 @@ export default function Home() {
             <a href="#financiamento" className="hover:text-white">Contratação Pública</a>
           </div>
           <div className="text-[11px] text-white/40">
-            © {new Date().getFullYear()} NeuroViver. Todos os direitos reservados.
+            © 2026 NeuroViver. Todos os direitos reservados.
           </div>
         </div>
       </footer>
